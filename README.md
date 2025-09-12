@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DanielRobertSosa/ticket-lifecycle)
 
 - **Microsoft Azure**
+  - [VPN Setup in Virtual Machine ](https://github.com/JonathandelcastilloIT/Setting-UP-A-VPN)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanielRobertSosa/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DanielRobertSosa/azure-network-protocols)
 
