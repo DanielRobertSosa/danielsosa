@@ -7,7 +7,7 @@
 
 
 
-<h1>Hi, I'm Daniel, <a href="https://linkedin.com/in/dansosa-/">Building My Career in IT & Cloud</a>☺</h1>
+<h1>Hi, I'm Daniel, <a href="https://linkedin.com/in/dansosa-/">Building My Career in IT & Cloud</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
