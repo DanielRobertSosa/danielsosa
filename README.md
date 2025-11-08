@@ -21,7 +21,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanielRobertSosa/configure-ad)
   - [Group Policy & Managing Accounts (Unlocking/Resetting)](https://github.com/DanielRobertSosa/managing-accounts)
 
-- Linux / Cloud Engineering
+- Networking & Cloud Fundamentals
   - [Project Curls: HTTP Requests using curl](https://github.com/DanielRobertSosa/linux-curls)
   - [Find Your IP Address](https://github.com/DanielRobertSosa/find-your-ip-address.git)
   - [Trace Routes](https://github.com/DanielRobertSosa/trace-routes.git)
