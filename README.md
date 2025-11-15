@@ -25,7 +25,9 @@
   - [Project Curls: HTTP Requests using curl](https://github.com/DanielRobertSosa/linux-curls)
   - [Find Your IP Address](https://github.com/DanielRobertSosa/find-your-ip-address.git)
   - [Trace Routes](https://github.com/DanielRobertSosa/trace-routes.git)
-  - [CLI S3 Bucket](https://github.com/DanielRobertSosa/aws-cli-s3-bucket-project.git)
+ 
+- AWS & Cloud Engineering Projects
+  -  [CLI S3 Bucket](https://github.com/DanielRobertSosa/aws-cli-s3-bucket-project.git)
   
 
 
